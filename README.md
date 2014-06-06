@@ -1,5 +1,4 @@
 CmCode
 ======
 
-Ming-Ming Cheng's open source projects
-coming soon！
+Fork from Ming-Ming Cheng's open source projects！
